@@ -39,9 +39,8 @@
 			</section>
 		</div>
 	</div>
-
-</body>
-</html>
+	
+<style>
 *{
 	box-sizing: border-box;
 }
@@ -219,3 +218,7 @@ p{
     width: 100%;
   }
 }
+</style>
+
+</body>
+</html>
